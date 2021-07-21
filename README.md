@@ -2,7 +2,7 @@
 This is a e-commerce website, it has the functionality of choosing item and moving into the cart and once the customer bought the item, it will generate the invoice for the customer in PDF format.
 
 # Link to App
-https://cbc-weather-app.herokuapp.com/
+https://yogaoutlet.herokuapp.com/
 
 Following Technologies are used in this app.
 
